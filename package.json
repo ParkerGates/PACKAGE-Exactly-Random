@@ -1,0 +1,19 @@
+{
+  "name": "exactlyrandom",
+  "version": "1.0.0",
+  "description": "npm package for generating random numbers with specific requirements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParkerGates/ExactlyRandom.git"
+  },
+  "author": "Parker Gates",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParkerGates/ExactlyRandom/issues"
+  },
+  "homepage": "https://github.com/ParkerGates/ExactlyRandom#readme"
+}
